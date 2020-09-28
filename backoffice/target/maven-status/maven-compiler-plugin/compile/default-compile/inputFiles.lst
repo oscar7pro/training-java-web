@@ -1,0 +1,7 @@
+/home/adonay/NetBeansProjects/backoffice/src/main/java/com/directmedia/onlinestore/backoffice/controller/AddWorkServlet.java
+/home/adonay/NetBeansProjects/backoffice/src/main/java/com/directmedia/onlinestore/backoffice/controller/HomeServlet.java
+/home/adonay/NetBeansProjects/backoffice/src/main/java/com/directmedia/onlinestore/backoffice/controller/LogoutServlet.java
+/home/adonay/NetBeansProjects/backoffice/src/main/java/com/directmedia/onlinestore/backoffice/resources/WorkResource.java
+/home/adonay/NetBeansProjects/backoffice/src/main/java/com/directmedia/onlinestore/backoffice/controller/AuthenticationServlet.java
+/home/adonay/NetBeansProjects/backoffice/src/main/java/com/directmedia/onlinestore/backoffice/controller/WorkAddedFaillureServlet.java
+/home/adonay/NetBeansProjects/backoffice/src/main/java/com/directmedia/onlinestore/backoffice/controller/WorkAddedSuccessServlet.java

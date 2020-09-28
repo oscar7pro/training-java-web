@@ -1,0 +1,10 @@
+com/travauxpratiques/firstapp/controleur/TestThreadSafeServlet.class
+com/travauxpratiques/firstapp/controleur/SelectionLivreServlet.class
+com/travauxpratiques/firstapp/controleur/UnexpectedErrorServlet.class
+com/travauxpratiques/firstapp/resources/LivreResource.class
+com/travauxpratiques/firstapp/controleur/LoginServlet.class
+com/travauxpratiques/firstapp/controleur/PayerLivreServlet.class
+com/travauxpratiques/firstapp/controleur/PdfServlet.class
+com/travauxpratiques/firstapp/resources/CalculationResource.class
+com/travauxpratiques/firstapp/controleur/HelloServlet.class
+com/travauxpratiques/firstapp/controleur/SommeServlet.class
